@@ -28,5 +28,5 @@
   <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql" alt="MySQL">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=flat-square&logo=visual-studio-code&logoColor=007acc" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows&logoColor=0078d6" alt="Windows">
-  <img src="https://img.shields.io/badge/php?style=flat-square&logo=PHP&logoColor=0078d6" alt="PHP">
+  <img src="https://img.shields.io/badge/php?style=flat-square&logo=php" alt="PHP">
 </div>
