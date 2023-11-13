@@ -32,3 +32,6 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007acc" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=0078d6" alt="Windows">
 </div>
+
+
+[![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify&color=blue)](https://telegram.dog/Premium_Gifted)
