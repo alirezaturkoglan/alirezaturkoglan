@@ -33,5 +33,9 @@
   <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=0078d6" alt="Windows">
 </div>
 
+## سفارش خرید اشتراک پریمیوم تلگرام | Premium Gifted
+
+<div align="center">لطفا جهت سفارش روی دکمه زیر بزنید👇</div>
+<a align="center" href="https://t.me/TelPremiumSel_Bot"><img src="https://github.com/alirezaturkoglan/alirezaturkoglan/blob/main/img/photo_2023-11-11_12-59-17.mp4"></a>
 
 [![Premium Gifted🌿](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https://tg.sumanjay.workers.dev/Premium_Gifted&color=blue)](https://telegram.dog/Premium_Gifted)
