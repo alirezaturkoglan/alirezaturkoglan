@@ -34,4 +34,4 @@
 </div>
 
 
-[![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify&color=blue)](https://telegram.dog/Premium_Gifted)
+[![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https://tg.sumanjay.workers.dev/Premium_Gifted&color=blue)](https://telegram.dog/Premium_Gifted)
