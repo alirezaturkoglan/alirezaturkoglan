@@ -39,8 +39,6 @@
 <a align="center" href="https://t.me/TelPremiumSel_Bot"><img src="https://github.com/alirezaturkoglan/alirezaturkoglan/blob/main/img/Asset%201.png"></a>
 
 <div align="center">
-    <img src="https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https://tg.sumanjay.workers.dev/Premium_Gifted&color=blue" alt="Premium_Gifted">
+
+[![Premium Gifted🌿](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https://tg.sumanjay.workers.dev/Premium_Gifted&color=blue)](https://telegram.dog/Premium_Gifted)
 </div>
-
-
-<!-- [![Premium Gifted🌿](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https://tg.sumanjay.workers.dev/Premium_Gifted&color=blue)](https://telegram.dog/Premium_Gifted) -->
