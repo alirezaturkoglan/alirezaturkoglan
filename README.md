@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007acc" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=0078d6" alt="Windows">
 </div>
+<hr>
 
 ## سفارش خرید اشتراک پریمیوم تلگرام | Premium Gifted
 
@@ -41,4 +42,4 @@
 <div align="center">
 
 [![Premium Gifted🌿](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https://tg.sumanjay.workers.dev/Premium_Gifted&color=blue)](https://telegram.dog/Premium_Gifted)
-</div>
+</div><hr>
