@@ -1,11 +1,13 @@
 # Alireza Hosseinzadeh | علیرضا حسین‌زاده
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alirezaturkoglan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alirezahosseinzadeh__/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](AlirezaHosseinzade)
-
 ![gitartwork](gitartwork.svg)
 
 <hr>
 
+## Social Media
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alirezaturkoglan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alirezahosseinzadeh__/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](AlirezaHosseinzade)
+
+<hr>
 <div align="center">My Github</div>
 
 <div align="center">
