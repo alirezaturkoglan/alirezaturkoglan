@@ -1,53 +1,23 @@
 # Alireza Hosseinzadeh | علیرضا حسین‌زاده
 
-![gitartwork](gitartwork.svg)
+# 💫 About Me:
+Alireza Hosseinzadeh<br>➣𝑻𝒂𝒃𝒓𝒊𝒛 | 𝒊𝒂𝒖𝒕 | 𝑨𝒄𝒄𝒐𝒖𝒏𝒕𝒊𝒏𝒈 | 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓
 
-<hr>
 
-## Social Media
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alirezaturkoglan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alirezahosseinzadeh__/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](AlirezaHosseinzade)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alirezahosseinzadeh__) 
 
-## Badges
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
-<hr>
-<div align="center">My Github</div>
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=alirezaturkoglan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alirezaturkoglan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaturkoglan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <a href="https://github.com/alirezaturkoglan">
-    <img src="https://github-readme-stats.vercel.app/api?username=alirezaturkoglan&hide=contribs,issues&show_icons=true&theme=radical" alt="Alireza's GitHub stats">
-  </a>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alirezaturkoglan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center">Languages</div>
+---
+[![](https://visitcount.itsvg.in/api?id=alirezaturkoglan&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <a href="https://github.com/alirezaturkoglan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaturkoglan&layout=compact&theme=radical" alt="Top Langs">
-  </a>
-</div>
-
-## Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" alt="Python">
-  <br>
-  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=1572b6" alt="CSS">
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql" alt="MySQL">
-  <br>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007acc" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=0078d6" alt="Windows">
-</div>
-<hr>
-
-## سفارش خرید اشتراک پریمیوم تلگرام | Premium Gifted
-
-<div align="center">لطفا جهت سفارش روی دکمه زیر بزنید👇</div>
-<a align="center" href="https://t.me/TelPremiumSel_Bot"><img src="https://github.com/alirezaturkoglan/alirezaturkoglan/blob/main/img/Asset%201.png"></a>
-
-<div align="center">
-
-[![Premium Gifted🌿](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https://tg.sumanjay.workers.dev/Premium_Gifted&color=blue)](https://telegram.dog/Premium_Gifted)
-</div><hr>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
